@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MyHTML5App
+Exec=webapp-container --inspector ./www/index.html
+Icon=MyHTML5App.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

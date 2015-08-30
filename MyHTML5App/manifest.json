@@ -1,0 +1,17 @@
+{
+    "name": "myhtml5app.msk",
+    "description": "description of MyHTML5App",
+    "architecture": "all",
+    "title": "MyHTML5App",
+    "hooks": {
+        "MyHTML5App": {
+            "apparmor": "MyHTML5App.apparmor",
+            "desktop":  "MyHTML5App.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": " <moorthy@cs.rpi.edu>",
+    "framework" : "ubuntu-sdk-14.04"
+}
+
+
